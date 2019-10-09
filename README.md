@@ -6,4 +6,4 @@ IDE在学校老电脑上卡慢怎么办，自己写一个喽。
 使用Win32的GUI库，看起来还行，动起来就不行了。
 
 ## 下载
-下载地址：https://github.com/EngineerDDP/Primitive-Java-Editor/blob/master/Release/Project-J.exe
+下载地址：https://github.com/EngineerDDP/Primitive-Java-Editor/raw/master/Release/Project-J.exe
