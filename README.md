@@ -7,5 +7,5 @@ IDE在学校老电脑上卡慢怎么办，自己写一个喽。
 
 
 ## 下载
-文件大小只有295KB，要是还有电脑运行这个也卡，请务必砸了它 :P。
+文件大小只有295KB，要是还有电脑运行这个也卡，请务必砸了它 :P。<br>
 下载地址：https://github.com/EngineerDDP/Primitive-Java-Editor/raw/master/Release/Project-J.exe
